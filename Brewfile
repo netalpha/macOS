@@ -62,8 +62,6 @@ brew "gnupg"
 brew "go"
 # Deliver Go binaries as fast and easily as possible
 brew "goreleaser"
-# GPG key agent
-brew "gpg-agent"
 # Colorize logfiles and command output
 brew "grc"
 # The Kubernetes package manager
@@ -188,9 +186,6 @@ cask "rectangle"
 cask "slack"
 cask "subtitles"
 cask "suspicious-package"
-cask "telegram"
-cask "transmission"
-cask "twitch"
 cask "visual-studio-code"
 cask "webpquicklook"
-cask "whatsapp"
+cask "gitkraken"
