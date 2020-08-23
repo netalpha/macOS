@@ -154,7 +154,6 @@ brew "asdf"
 
 cask "1password"
 cask "airflow"
-cask "appcleaner"
 cask "deckset"
 cask "discord"
 cask "docker"
