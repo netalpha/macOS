@@ -149,6 +149,9 @@ brew "caarlos0/tap/svu"
 brew "github/gh/gh"
 # Everything you need to get started with Heroku
 brew "heroku/brew/heroku"
+# ASDF
+brew "asdf"
+
 cask "1password"
 cask "airflow"
 cask "appcleaner"
@@ -188,3 +191,6 @@ cask "suspicious-package"
 cask "visual-studio-code"
 cask "webpquicklook"
 cask "gitkraken"
+cask "dropbox"
+cask "alfred"
+cask "karabiner-elements"
