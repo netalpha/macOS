@@ -9,7 +9,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
-cask "adoptopenjdk8"
+
 # Record and share terminal sessions
 brew "asciinema"
 # Use AWS IAM credentials to authenticate to Kubernetes
@@ -164,8 +164,7 @@ cask "google-cloud-sdk"
 cask "iina"
 cask "imageoptim"
 cask "intellij-idea"
-cask "iterm2"
-cask "java"
+cask "iterm2-beta"
 cask "keepingyouawake"
 cask "keybase"
 cask "kindle"
